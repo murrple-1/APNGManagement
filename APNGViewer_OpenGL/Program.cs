@@ -1,21 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
 using System.Drawing;
 using System.Windows.Forms;
-using System.Diagnostics;
 using System.IO;
 
 using OpenTK;
 using OpenTK.Graphics;
 using OpenTK.Graphics.OpenGL;
-using OpenTK.Audio;
-using OpenTK.Audio.OpenAL;
-using OpenTK.Input;
 
 using APNGLib;
-
 
 namespace APNGViewer_OpenGL
 {
